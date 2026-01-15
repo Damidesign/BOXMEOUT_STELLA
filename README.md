@@ -1,4 +1,3 @@
-# 🌟 BOXMEOUT STELLA 🌟
 ## The Future of Wrestling Prediction Markets on Stellar
 
 Welcome to the future of sports engagement! **BOXMEOUT STELLA** is a groundbreaking, decentralized, and gamified platform built on Stellar that enables users to predict wrestling match outcomes while maintaining privacy through cryptographic commitments. 
